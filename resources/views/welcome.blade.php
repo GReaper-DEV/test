@@ -14,6 +14,8 @@
                     </form>
                 @endif
             @endforeach
+            <!--This is a comment-->
+            <!--Second comment-->
         </ul>
         <form action="/tasks" method="post">
             @csrf
